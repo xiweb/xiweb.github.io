@@ -12,7 +12,7 @@ var domains = {
     'ocsp.usertrust.com': 1,
     'zerossl.ocsp.sectigo.com': 1
 };
-var proxy = 'PROXY ipv6.baidu.com:80;';
+var proxy = 'PROXY apps.apple.com:7;';
 
 var direct = 'DIRECT;';
 function FindProxyForURL(url, host) {
