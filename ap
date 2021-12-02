@@ -1,6 +1,7 @@
 var domains = {
     'appldnld.apple.com': 1,
     'gdmf.apple.com': 1,
+    'ww1.appple.com': 1,
     'gg.apple.com': 1,
     'gs.apple.com': 1,
     'mesu.apple.com': 1,
